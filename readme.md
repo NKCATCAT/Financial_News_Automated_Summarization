@@ -1,0 +1,1 @@
+In this project, I focused on developing an automated system for summarizing financial news articles. The key objective was to extract concise and coherent summaries from extensive financial news data, employing advanced natural language processing (NLP) techniques.
